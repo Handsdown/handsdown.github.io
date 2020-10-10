@@ -66,7 +66,6 @@ a {
   background: url("../img/DON.png") no-repeat center;
   background-size:cover;
   transform: translateZ(-700px) scale(3.9);
-  
   z-index: 1;
 }
 
@@ -84,7 +83,7 @@ a {
   z-index: 3;
 }
 
-.LIGHT {
+.people1 {
   background: url('../img/light.png') no-repeat center;
   background-size: cover;
   left:-50%;
@@ -92,7 +91,7 @@ a {
   z-index: 4;
 }
 
-.EMPTY3{
+.EMPTY3 {
   background: url() no-repeat center;
   background-size: cover;
   transform: translateZ(-125px) scale(4);
